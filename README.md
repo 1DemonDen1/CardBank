@@ -1,3 +1,3 @@
 # CardBank
 
-<img scr="BANK/Work.jpg">
+<img src="BANK/Work.jpg">
